@@ -1,0 +1,6 @@
+{
+  "name": "EDUGENIE – Google Gemini Powered Learning Assistant",
+  "description": "An AI-powered personal learning assistant for students featuring personalized tutoring, smart quiz generation, study material analyzer, interactive flashcards, study planner, and progress analytics powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
